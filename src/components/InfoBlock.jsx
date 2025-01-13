@@ -25,6 +25,7 @@ export default function InfoBlock() {
               <li>- Лен</li>
               <li>- Нут</li>
               <li>- Просо</li>
+              <li>- Горох</li>
             </ul>
             <p>
               Закупаем зерновые в Центрально-Черноземном регионе, ПФО -
@@ -37,7 +38,7 @@ export default function InfoBlock() {
         <div>
           <img src={truck} alt="" />
           <h4>Форма оплаты</h4>
-          <p>Любая (наличный так же без НДС)</p>
+          <p>Любая (наличный так же с НДС)</p>
         </div>
         <div>
           <img src={money} alt="" />

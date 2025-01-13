@@ -6,10 +6,10 @@ export default function Header() {
     <div className="header">
       <div className="header__logo">
         <img src={logo} alt="logo" width={60} />
-        <h1>Название сайта</h1>
+        <h1>Покупка сельскохозяйственных культур</h1>
       </div>
       <div className="header__links">
-        <b>+790 123-45-67</b>
+        <b>+7 937 419-32-22</b>
         <p>emailindex@mail.ru</p>
       </div>
     </div>
