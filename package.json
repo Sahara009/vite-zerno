@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Sahara009.github.io/zerno",
+  "homepage": "https://Sahara009.github.io/vite-zerno",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
