@@ -1,0 +1,14 @@
+.button__container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.button {
+  background-color: rgb(11, 186, 11);
+  padding: 10px 12px;
+  font-family: "Roboto", serif;
+  font-size: 18px;
+  border-radius: 7px;
+  color: white;
+}

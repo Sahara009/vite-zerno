@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  background-color: rgb(229, 229, 229);
+  padding: 15px;
+  border-radius: 7px;
+  margin-bottom: 10px;
+}
+.footer__detail {
+  max-width: 300px;
+  font-size: 14px;
+  color: gray;
+  margin-top: 10px;
+}
+.text {
+  max-width: 600px;
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+@media (max-width: 900px) {
+  .footer {
+    display: block;
+  }
+}
