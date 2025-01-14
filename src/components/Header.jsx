@@ -10,7 +10,7 @@ export default function Header() {
       </div>
       <div className="header__links">
         <b>+7 937 419-32-22</b>
-        <p>emailindex@mail.ru</p>
+        {/* <p>emailindex@mail.ru</p> */}
       </div>
     </div>
   );
