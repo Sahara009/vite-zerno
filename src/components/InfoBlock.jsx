@@ -1,7 +1,7 @@
 import "../style/info-block.css";
 import truck from "../assets/truck.gif";
 import money from "../assets/money.gif";
-import image from "../assets/combine.jpg";
+// import image from "../assets/combine.jpg";
 
 export default function InfoBlock() {
   return (
@@ -50,7 +50,10 @@ export default function InfoBlock() {
         </div>
       </div>
       <div className="info__image">
-        <img src={image} alt="" />
+        <img
+          src="https://avatars.mds.yandex.net/i?id=77e563076164a6268d1dd387f3950142_l-5215694-images-thumbs&n=13"
+          alt=""
+        />
       </div>
     </>
   );

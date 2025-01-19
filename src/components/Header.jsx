@@ -3,7 +3,7 @@ import "../style/header.css";
 
 export default function Header() {
   return (
-    <div className="header">
+    <header className="header">
       <div className="header__logo">
         <img src={logo} alt="logo" width={60} />
         <h1>Покупка сельскохозяйственных культур</h1>
@@ -12,6 +12,6 @@ export default function Header() {
         <b>+7 937 419-32-22</b>
         {/* <p>emailindex@mail.ru</p> */}
       </div>
-    </div>
+    </header>
   );
 }

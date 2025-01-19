@@ -3,7 +3,7 @@ import "../style/footer.css";
 
 export default function Footer() {
   return (
-    <div className="footer">
+    <footer className="footer">
       <div>
         <p className="text">
           Закупаем пшеницу в Пензенской области, Саратовской области, Республики
@@ -14,6 +14,6 @@ export default function Footer() {
       <div>
         <Button />
       </div>
-    </div>
+    </footer>
   );
 }

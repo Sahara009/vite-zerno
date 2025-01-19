@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://zerno-eluzan.ru/sitemap.xml
