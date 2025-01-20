@@ -1,3 +1,12 @@
+User-agent: Yandex
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
 User-agent: *
-Disallow:
-Sitemap: https://zerno-eluzan.ru/sitemap.xml
+
+Sitemap: https://eluzan-zerno.ru/sitemap.xml
+
+
+
